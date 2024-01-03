@@ -14,6 +14,9 @@ HOW DOES THE FAKE BITCOIN SENDER SOFTWARE WORKS
 3. The BTC has no real time value
 4. The BTC sent with the software will confirm on destination wallet and can be checked on etherscan
    CLICK ON THE LINK BELOW TO DOWNLOAD THE SOFTWARE
+   
    https://wa.me/48573560921
+
+   
 
    ![fake btc](https://github.com/FAKEBTC/FAKE-BTC/assets/155534986/e4f09c26-f9a7-4ef6-a0c8-8039ce939fb1)
